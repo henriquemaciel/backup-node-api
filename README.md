@@ -13,7 +13,7 @@ yarn
 ```
 &nbsp;
 
-#### Para rodar o projeto, execute:
+### Para rodar o projeto, execute:
 
 &nbsp;
 
