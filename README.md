@@ -1,4 +1,4 @@
-# Simples API Node com typescript, usando SQLITE
+# Simples API Node com typescript, usando SQLite
 
 ### É um pequeno projeto para monitoramento de backups, permite cadastrar e consultar status de backups realizados.
 
