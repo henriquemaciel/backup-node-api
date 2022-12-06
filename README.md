@@ -4,7 +4,7 @@
 
 &nbsp;
 
-### Instalar a dependências:
+### Instalar dependências:
 
 &nbsp;
 
